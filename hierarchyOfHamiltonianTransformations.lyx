@@ -7,7 +7,7 @@
 \textclass revtex4-1
 \begin_preamble
 \usepackage{amsfonts,amsmath} % amsmath added here instead to prevent clash with lyx function
-\input{tikzit/tikz_premable.tex}
+%\input{tikzit/tikz_premable.tex}
 \newcommand{\intextheight}{13 pt}
 \end_preamble
 \options showpacs,preprintnumbers,amssymb,aps,notitlepage
@@ -92,6 +92,7 @@ Nike Dattani
 \end_layout
 
 \begin_layout Author Email
+
 n.dattani@cfa.harvard.edu
 \end_layout
 
@@ -104,6 +105,7 @@ Nicholas Chancellor
 \end_layout
 
 \begin_layout Author Email
+
 nicholas.chancellor@durham.ac.uk
 \end_layout
 
@@ -112,8 +114,60 @@ Durham University
 \end_layout
 
 \begin_layout Abstract
-We define a hierarchy of classes for amiltonian transformations and categorize
- all known quadratization techniques according to these classes 
+We define a hierarchy of classes for Hamiltonian transformations and categorize
+ all known quadratization techniques according to these classes, and give
+ examples of the types of problems which would require gadgets of each individua
+l class.
+\end_layout
+
+\begin_layout Standard
+Discrete optimization problems are often naturally formulated in terms of
+ minimizing some polynomial of degree 
+\begin_inset Formula $>2$
+\end_inset
+
+, which is then `quadratized' into a quadratic function which can be solved
+ using standard algorithms for universal classical computers [1], using
+ special-purpose classical annealers [2], or using quantum annealers [3].
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ for example factoring, Ramsy, ...
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When quadratizing a function, depending on what we need to learn from the
+ optimization, sometimes it is only necessary to preserve the value of the
+ minimum (the ground state energy), and sometimes it is necessary to preserve
+ the value of the minimum and an input that gives this minimum value (a
+ ground state).
+ Sometimes we even need to know not just any ground state but all of them
+ (all degeneracies of the ground state).
+ Sometimes we need not just the ground state but the full spectrum, sometmies
+ the full spectrum and its degeneracies.
+ Sometimes we may be content with a quadratization that preserves the ground
+ state most of the time.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Sometimes it doesn't even have to be most of the time? Just as long as it
+ presreves it in one instance, if you can run the optimization a billion
+ times just as long as you get that one instance at least once?
+\end_layout
+
+\end_inset
+
+ All of this does not only apply to quadratizations, but to any Hamiltonian
+ transformation in general.
 \end_layout
 
 \end_body
