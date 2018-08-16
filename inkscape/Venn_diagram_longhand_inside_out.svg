@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98989839"
-     inkscape:cx="124.91179"
+     inkscape:cx="-46.317906"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -191,14 +191,9 @@
        id="text4157"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="33.900448"
-         y="516.95374"
-         id="tspan4163"
-         style="text-align:center;text-anchor:middle">Not </tspan><tspan
-         sodipodi:role="line"
          x="29.920956"
-         y="548.20374"
+         y="516.95374"
          style="text-align:center;text-anchor:middle"
-         id="tspan4172">A Mapping</tspan></text>
+         id="tspan4172" /></text>
   </g>
 </svg>
