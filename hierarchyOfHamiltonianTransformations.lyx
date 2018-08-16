@@ -92,6 +92,7 @@ Nike Dattani
 \end_layout
 
 \begin_layout Author Email
+
 n.dattani@cfa.harvard.edu
 \end_layout
 
@@ -104,6 +105,7 @@ Nicholas Chancellor
 \end_layout
 
 \begin_layout Author Email
+
 nicholas.chancellor@durham.ac.uk
 \end_layout
 
@@ -148,7 +150,7 @@ When quadratizing a function, depending on what we need to learn from the
  ground state).
  Sometimes we even need to know not just any ground state but all of them
  (all degeneracies of the ground state).
- Sometimes we need not just the ground state but the full spectrum, sometmies
+ Sometimes we need not just the ground state but the full spectrum, sometimes
  the full spectrum and its degeneracies.
  Sometimes we may be content with a quadratization that preserves the ground
  state most of the time.
@@ -158,7 +160,7 @@ status open
 
 \begin_layout Plain Layout
 Sometimes it doesn't even have to be most of the time? Just as long as it
- presreves it in one instance, if you can run the optimization a billion
+ preserves it in one instance, if you can run the optimization a billion
  times just as long as you get that one instance at least once?
 \end_layout
 
@@ -188,7 +190,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Hierachy of the senses in which a problem term can be mapped.
+Hierarchy of the senses in which a problem term can be mapped.
  Outside of the outer circle is the space of all Hamiltonians which do not
  map the problem in any sense.
  The loosest sense in which a problem can be mapped is for the ground state(s)
@@ -198,6 +200,14 @@ Hierachy of the senses in which a problem term can be mapped.
  the degeraracy of the ground state or to reproduce the whole spectrum.
  Finally, the strictest requirement is to reproduce the entire spectrum
  and its degeneracy.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Hierachy"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -206,6 +216,63 @@ Hierachy of the senses in which a problem term can be mapped.
 \end_layout
 
 \begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Venn_diagram_inside_out_applications.pdf
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Version of the diagram in Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Hierachy"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ including some of the applications that different classes would be useful
+ for.
+ For example, only the ground state needs to be reproduced for satisfiability
+ problems because the answer is only relevant if each term can simultaineously
+ be in its ground state.
+ On the other hand, maximum statisfiability needs the higher parts of the
+ spectrum to be reproduced so that the cost of an unsatisfied clause is
+ the same for all clauses.
+ In neither of these cases does the degerneracy need to be reproduced.
+ Finally, reproducing the full spectrum and the degerearacy is a necissary,
+ but not sufficient condition for thermal sampling, the reason it is not
+ sufficient is that thermal sampling may still not be practically feasible
+ if there are `spurious' states close in energy to the highest energy state
+ of the mapped term.
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
