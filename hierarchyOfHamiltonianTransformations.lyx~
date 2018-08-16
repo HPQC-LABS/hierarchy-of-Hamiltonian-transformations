@@ -92,6 +92,7 @@ Nike Dattani
 \end_layout
 
 \begin_layout Author Email
+
 n.dattani@cfa.harvard.edu
 \end_layout
 
@@ -104,6 +105,7 @@ Nicholas Chancellor
 \end_layout
 
 \begin_layout Author Email
+
 nicholas.chancellor@durham.ac.uk
 \end_layout
 
@@ -166,52 +168,6 @@ Sometimes it doesn't even have to be most of the time? Just as long as it
 
  All of this does not only apply to quadratizations, but to any Hamiltonian
  transformation in general.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename Venn_diagram_longhand_inside_out.pdf
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Hierachy of the senses in which a problem term can be mapped.
- Outside of the outer circle is the space of all Hamiltonians which do not
- map the problem in any sense.
- The loosest sense in which a problem can be mapped is for the ground state(s)
- to be repoduced, but not necessality in a way which preserves degeneracy,
- or any higher excited states.
- A stronger way in which a term can be mapped is either to correctly reporduce
- the degeraracy of the ground state or to reproduce the whole spectrum.
- Finally, the strictest requirement is to reproduce the entire spectrum
- and its degeneracy.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_body

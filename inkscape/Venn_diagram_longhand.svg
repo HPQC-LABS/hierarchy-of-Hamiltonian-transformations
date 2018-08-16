@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Venn_diagram_longhand.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1772246"
+     inkscape:cx="206.97328"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ff64ff;fill-opacity:0.39215687;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4142-3-5"
+       cx="170.58879"
+       cy="365.33347"
+       rx="153.452"
+       ry="103.2101" />
+    <ellipse
+       style="fill:#ffff64;fill-opacity:0.39215687;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4142-7"
+       cx="324.8197"
+       cy="366.50183"
+       rx="153.452"
+       ry="103.2101" />
+    <ellipse
+       style="fill:#83ffff;fill-opacity:0.39215687;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4136-6"
+       cx="247.31477"
+       cy="356.37561"
+       rx="72.052338"
+       ry="60.368176" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4142-3"
+       cx="170.58879"
+       cy="365.33347"
+       rx="153.452"
+       ry="103.2101" />
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4142"
+       cx="324.8197"
+       cy="366.50183"
+       rx="153.452"
+       ry="103.2101" />
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4136"
+       cx="247.31477"
+       cy="356.37561"
+       rx="72.052338"
+       ry="60.368176" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.0408783px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="252.02597"
+       y="324.89102"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="252.02597"
+         y="324.89102">Ground</tspan><tspan
+         sodipodi:role="line"
+         x="256.00546"
+         y="356.14102"
+         id="tspan4152">State </tspan><tspan
+         sodipodi:role="line"
+         x="252.02597"
+         y="387.39102"
+         id="tspan4154">Reproduced</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.41568184px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="391.24915"
+       y="331.95599"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="391.24915"
+         y="331.95599">Ground</tspan><tspan
+         sodipodi:role="line"
+         x="394.65808"
+         y="358.72559"
+         id="tspan4156">State </tspan><tspan
+         sodipodi:role="line"
+         x="391.24915"
+         y="385.49521"
+         id="tspan4158">Degeneracy</tspan><tspan
+         sodipodi:role="line"
+         x="391.24915"
+         y="412.2648"
+         id="tspan4160">Reproduced</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.06051445px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="92.694183"
+       y="341.28305"
+       id="text4163"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4165"
+         x="92.694183"
+         y="341.28305">Full</tspan><tspan
+         sodipodi:role="line"
+         x="92.694183"
+         y="372.53305"
+         id="tspan4148">Spectrum</tspan><tspan
+         sodipodi:role="line"
+         x="92.694183"
+         y="403.78305"
+         id="tspan4150">Reproduced</tspan></text>
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4167"
+       cx="289.37778"
+       cy="392.98596"
+       rx="290.15671"
+       ry="180.32558" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:middle;text-align:center;"
+       x="318.91467"
+       y="499.4595"
+       id="text4169"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="154.88878"
+         y="499.4595"
+         id="tspan4162">Full Spectrum Degeneracy</tspan><tspan
+         sodipodi:role="line"
+         x="154.88878"
+         y="530.70947"
+         id="tspan4166">Reproduced</tspan></text>
+  </g>
+</svg>
